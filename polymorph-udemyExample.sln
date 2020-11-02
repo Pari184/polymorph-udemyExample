@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorph-udemyExample", "polymorph-udemyExample\polymorph-udemyExample.csproj", "{FB679323-8C97-439D-A1A0-72568A6C7F41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1BBE5BAB-DE21-4BDD-8346-CD3D0E4D4332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB679323-8C97-439D-A1A0-72568A6C7F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB679323-8C97-439D-A1A0-72568A6C7F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB679323-8C97-439D-A1A0-72568A6C7F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB679323-8C97-439D-A1A0-72568A6C7F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C70B9B4-C18A-46E4-A1E4-A218DCA28BC7}
+	EndGlobalSection
+EndGlobal
